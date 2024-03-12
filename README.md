@@ -34,4 +34,9 @@ PS c:\> Get-QRcode "path\to\you\text\file"
 PS c:\> echo "you can text here to output on the terminal" | print-qrcode
 ```
 
+## Credit
+
+> https://github.com/tpanj/qr
+> https://www.powershellgallery.com/packages/QRCodeGenerator/2.4.1
+
 Enjoy.
